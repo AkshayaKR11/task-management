@@ -6,7 +6,7 @@ Firstly you need to clone the repository.
 
 ### Change the directory 
 
-Change the directory to task-management/task-management
+Change the directory to task-management/task-management-ui
 
 ### `npm install`
 
